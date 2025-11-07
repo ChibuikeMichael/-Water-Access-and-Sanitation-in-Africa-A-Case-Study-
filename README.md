@@ -1,5 +1,5 @@
 # Water Access and Sanitation in Africa: A Case Study
-![Profile Photo](images/profile.jpg)
+![Profile Photo](images/Water_Sanitation_and_Access_photo.jpg)
 ## Description
 The primary goal of this work is to analyze data, identify patterns, and propose informed, data driven recommendations that governments and stakeholders can implement to effectively improve water access and snitation in African communities.
 
