@@ -28,6 +28,6 @@ This dataset provides insights into the satisfaction levels of communities based
 7. List the communities that receive both government and NGO support.
 8. Identify the community with the highest population per country.
 
-*Project File:* [View Project Report (pdf)](projects/Water_Access_and_Sanitation.pdf)
+*Project File:* [View Project Report (pdf)](documents/Water_Access_and_Sanitation.pdf)
 
 
